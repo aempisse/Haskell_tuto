@@ -16,3 +16,4 @@ oddSquareSum'' =
         belowLimit = takeWhile (<10000) oddSquares  
     in  sum belowLimit
     
+    
